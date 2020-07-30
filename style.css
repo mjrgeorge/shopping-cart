@@ -53,3 +53,7 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+#process_page {
+	display: none;
+}
