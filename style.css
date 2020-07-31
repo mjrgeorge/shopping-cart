@@ -57,3 +57,7 @@ body{
 #process_page {
 	display: none;
 }
+#process_page img {
+	width: 25px;
+	margin-left: 10px;
+}
